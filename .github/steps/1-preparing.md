@@ -45,8 +45,6 @@ Let's start up our development environment, use copilot to learn a bit about the
 
 1. In the left sidebar, click the extensions tab and verify that the `GitHub Copilot` and `Python` extensions are installed and enabled.
 
-   <img width="350" alt="copilot extension for VS Code" src="https://github.com/user-attachments/assets/ef1ef984-17fc-4b20-a9a6-65a866def468" />
-
    <img width="350" alt="python extension for VS Code" src="https://github.com/user-attachments/assets/3040c0f5-1658-47e2-a439-20504a384f77" />
 
 1. At the top of VS Code, locate and click the **Copilot icon** to open a Copilot Chat panel.
@@ -62,6 +60,11 @@ Let's start up our development environment, use copilot to learn a bit about the
    > ```prompt
    > @workspace Please briefly explain the structure of this project.
    > What should I do to run it?
+
+
+
+
+   
    > ```
 
    > **Note**: It is not necessary to follow Copilot's recommended instructions. We have already prepared the environment for you.
